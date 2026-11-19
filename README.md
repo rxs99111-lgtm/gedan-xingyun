@@ -1,8 +1,8 @@
-# 歌单星云
+# 歌词星云
 
 ## 音乐素材
 
-[下载音乐素材（ZIP，1.24 GB）](https://github.com/rxs99111-lgtm/gedan-xingyun/releases/download/audio-v1.0/default.zip)
+[下载音乐素材（ZIP，1.24 GB）](https://github.com/rxs99111-lgtm/lyrics-nebula/releases/download/audio-v1.0/default.zip)
 
 ## 歌手头像
 
